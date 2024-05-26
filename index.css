@@ -57,3 +57,22 @@ h2 {
     padding-bottom: 0.5em;
     font-size: 1.8em;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em 0;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    color: #8bb9be;
+    background-color: #8bb9be;
+    ;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
