@@ -1,5 +1,5 @@
 header {
-    background: linear-gradient(to right, #8bb9be, #399cff);
+    background: linear-gradient(to right, #8bb9be, #8bb9be);
     color: white;
     padding: 1em 0;
     text-align: center;
@@ -70,7 +70,6 @@ footer {
     padding: 1em 0;
     color: #8bb9be;
     background-color: #8bb9be;
-    ;
     color: white;
     position: relative;
     bottom: 0;
