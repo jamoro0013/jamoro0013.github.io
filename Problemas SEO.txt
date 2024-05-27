@@ -1,1 +1,0 @@
-Primer error encontrado, no tenia activada la recogida de datos de la web, la solucion tras investigar esque me faltaba unas lineas de codigo, las cuales me proporcionaba google analytics y habia que ponerlas justo debajo del html
